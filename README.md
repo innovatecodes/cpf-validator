@@ -41,5 +41,5 @@ cpf = cpf.replace(/^([0-9]{3})([0-9]{3})([0-9]{3})([0-9]{2})$/, "$1.$2.$3-$4");
 2. Cria um arquivo de configuração package.json (npm init -y)
 3. Cria um arquivo de configuração tsconfig.json (tsc --init)
 4. Script de execução automático ("scripts": {"start": "npx tsc && node src/index.js})
-5. 4. Script de execução automático ("scripts": {"start": "npx tsc -w})
+5. Script de execução automático ("scripts": {"start": "npx tsc -w})
 
