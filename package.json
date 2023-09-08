@@ -1,0 +1,17 @@
+{
+  "name": "cpf-validator",
+  "version": "1.0.0",
+  "description": "Este é um projeto simples em JavaScript que valida números de CPF e exibe uma mensagem indicando se o CPF é válido ou inválido. Ele também fornece feedback visual ao usuário.",
+  "main": "validator.js",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
